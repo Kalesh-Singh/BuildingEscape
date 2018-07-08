@@ -1,0 +1,15 @@
+######################################
+# Unreal Generated Files (Very Large)
+######################################
+
+*/Binaries/
+*/Build/
+*/DerivedDataCache/
+*/Intermediate/
+*/Saved/
+BuildingEscape/Content/StarterContent
+
+###################################
+# Visual Studio Generated Files
+###################################
+*.VC.db
